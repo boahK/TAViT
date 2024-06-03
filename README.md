@@ -1,7 +1,9 @@
 ![Image of The Proposed method](figs/method.png)
 # TAViT: Task-Agnostic Vision Transformer for Distributed Learning of Image Processing
 
-This repository is the official implementation of TAViT. 
+This repository is the official implementation of "Task-agnostic vision transformer for distributed learning of image processing".
+
+[[IEEE TIP]](https://ieeexplore.ieee.org/document/9979765)
 
 
 ## Requirements
@@ -107,3 +109,15 @@ https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.ht
 - GoPro :
 https://seungjunnah.github.io/Datasets/gopro.html
 
+## Citation
+```
+@article{kim2022task,
+  title={Task-agnostic vision transformer for distributed learning of image processing},
+  author={Kim, Boah and Kim, Jeongsol and Ye, Jong Chul},
+  journal={IEEE Transactions on Image Processing},
+  volume={32},
+  pages={203--218},
+  year={2022},
+  publisher={IEEE}
+}
+```
